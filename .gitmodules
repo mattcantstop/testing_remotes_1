@@ -1,3 +1,9 @@
 [submodule "bootstrap"]
 	path = bootstrap
 	url = https://github.com/seyhunak/twitter-bootstrap-rails.git
+[submodule "rack_code"]
+	path = rack_code
+	url = git://github.com/chneukirchen/rack.git
+[submodule "bootstrap_with_branch"]
+	path = bootstrap_with_branch
+	url = https://github.com/twbs/bootstrap
